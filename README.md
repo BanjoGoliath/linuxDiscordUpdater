@@ -1,4 +1,6 @@
 # LinuxDiscordUpdater
+
+**Archived, I use Arch now so I don't need this, still useful for Debian distros or whatever**
 Simple Python script that automatically downloads and installs the latest Discord update.
 
 For a while now, updating Discord on Linux has been a pain (probably closer to mild inconvenience) because you need to manually install the update, unlike Windows.
